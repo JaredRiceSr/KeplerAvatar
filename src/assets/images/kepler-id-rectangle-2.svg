@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="111px" height="42px" viewBox="0 0 111 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>kepler-id-rectangle-2</title>
@@ -13,7 +12,7 @@
         <g id="kepler-id-rectangle-2" transform="translate(-263.000000, -715.000000)" fill="url(#linearGradient-1)">
             <g id="Group-5" transform="translate(232.000000, 322.000000)">
                 <g id="Group-8">
-                    <rect id="Rectangle Copy 2" transform="translate(86.390542, 413.545249) rotate(-15.000000) translate(-86.390542, -413.545249) " x="30.7505422" y="407.183935" width="111.279999" height="12.7226276"></rect>
+                    <rect id="kepler-id-rectangle-2" transform="translate(86.390542, 413.545249) rotate(-15.000000) translate(-86.390542, -413.545249) " x="30.7505422" y="407.183935" width="111.279999" height="12.7226276"></rect>
                 </g>
             </g>
         </g>
